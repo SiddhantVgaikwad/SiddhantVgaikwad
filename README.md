@@ -76,8 +76,3 @@
 
 ---
 
-Would you like me to:
-- Turn this into a downloadable `.md` file for you?
-- Add sections like “Pinned Projects” or “Currently Learning”?
-
-Just say the word, Buddy 💻🔥
