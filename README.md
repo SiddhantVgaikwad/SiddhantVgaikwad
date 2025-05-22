@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddhant Gaikwad</h1>
+
 <h3 align="center">🚀 Full Stack Developer | MERN Enthusiast | Open Source Learner from Nagpur, India</h3>
 
 <p align="center">
@@ -55,7 +56,9 @@
   <a href="https://leetcode.com/siddhant333444/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   <a href="https://siddhant-gaikwad-portfolio.onrender.com"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
+
 ---
+
 ### ⚡ GitHub Stats
 
 <p align="center">
