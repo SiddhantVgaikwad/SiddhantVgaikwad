@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Siddhant Gaikwad</h1>
 
 <h3 align="center">🚀 Full Stack Developer | MERN Enthusiast | Open Source Learner from Nagpur, India</h3>
