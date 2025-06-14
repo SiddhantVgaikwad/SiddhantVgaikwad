@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=42A5F5&center=true&vCenter=true&width=435&lines=Building+real-world+projects;Learning+Docker+%2B+DevOps;Writing+clean%2C+modular+code;Open+to+new+opportunities" alt="Typing SVG" />
 </p>
+
 ---
 ### 🧑‍💻 About Me
 - 💼 I'm a **Full Stack Developer** passionate about building scalable web applications
