@@ -1,51 +1,99 @@
 <h1 align="center">Hi 👋, I'm Siddhant Gaikwad</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN stack and DotNet Enthusiast | Open Source Learner from Nagpur, India</h3>
+<h3 align="center">Full Stack Developer (MERN + .NET Core) | Backend Focus | Building Clean & Scalable Systems</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=42A5F5&center=true&vCenter=true&width=435&lines=Building+real-world+projects;Learning+Docker+%2B+DevOps;Writing+clean%2C+modular+code;Open+to+new+opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+%2B+.NET+Core+Backend+Engineer;Building+Production-Level+Projects;Learning+DevOps+and+Azure;Always+Improving+1%25+Every+Day" />
 </p>
 
 ---
-### 🧑‍💻 About Me
-- 💼 I'm a **Full Stack Developer** passionate about building scalable web applications
-- 🌱 Currently sharpening my skills in **Spring Boot**, **Docker**, and **System Design**
-- 💻 Built projects like: Flipkart Clone, TravelVerse, Twittar Clone, and Habit Tracker
-- 🔍 Looking for opportunities to contribute and grow in a fast-paced development team
-- 🧠 I believe in consistency, problem-solving, and writing code that lasts
+
+## 🧑‍💻 About Me
+
+I’m a **Full Stack Developer** passionate about building scalable backend systems and clean user experiences.  
+I work across **MERN stack**, **.NET Core**, **SQL/NoSQL databases**, and I’m currently learning **DevOps + Azure** for deployment & cloud skills.
+
+I enjoy:
+- Turning ideas into **working real-world products**  
+- Solving backend challenges (auth, APIs, caching, DB schemas)  
+- Understanding **system design, scalability & performance**  
+- Collaborating with teams and writing clean, maintainable code  
+
+Currently:
+- 🏥 Building an **enterprise-level Hospital Management System in .NET Core**
+- 💼 Working as a Backend Intern (C#, .NET Core, Azure, SQL)
+- 🌱 Growing strong in **architecture, microservices & DevOps**
 
 ---
 
-### 🛠️ Tech Stack I Work With
+## 🛠️ Tech Stack
 
-#### 💻 Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+### 🚀 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?logo=dotnet&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring&logoColor=white)
 
-#### 🧰 Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![Express.js](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
 
-#### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 
-#### ☁️ DevOps & Tools
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+### ☁️ Cloud & Tools
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 🌍 Connect With Me
+## ⭐ Featured Projects (Pinned)
+
+### 🛒 **Flipkart Clone (MERN + Redux + Stripe)**
+A fully functional e-commerce clone with authentication, cart, payments, search, filters, and admin panel.  
+👉 Features: Scalable backend, JWT auth, product caching, Stripe integration.
+
+---
+
+### 🗺️ **TravelVerse – Trip Planner App**
+A modern travel app with city search, itinerary creation, booking simulation & Google Maps integration.  
+👉 Tech: React + Node.js + MongoDB + Tailwind.
+
+---
+
+### 🐦 **Twittar – Social Media App**
+A lightweight Twitter clone with posting, following, likes, and real-time feed updates.  
+👉 Tech: MERN + WebSockets.
+
+---
+
+### 🏥 **Hospital Management Backend (ASP.NET Core)**
+Enterprise-level HMIS with appointments, doctor management, billing, patient records & JWT security.  
+👉 Tech: C#, .NET Core, SQL, Azure deployments.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SiddhantVgaikwad&show_icons=true&theme=react&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddhantVgaikwad&layout=compact&theme=react&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddhantVgaikwad&theme=react&hide_border=true" height="150" />
+</p>
+
+---
+
+## 🌍 Connect With Me
+
 <p>
   <a href="mailto:siddhant333444@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/dktesiddhantgaikwad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -55,19 +103,5 @@
 
 ---
 
-### ⚡ GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SiddhantVgaikwad&show_icons=true&theme=react" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddhantVgaikwad&layout=compact&theme=react" height="150"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddhantVgaikwad&theme=react" height="150" />
-</p>
-
----
-
-### 📌 Motto:
-> **"Code daily. Learn deeply. Ship often. Improve always."**
----
-
+## 📌 Motto  
+> **"Learn daily. Build often. Improve constantly."**
